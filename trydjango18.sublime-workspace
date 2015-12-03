@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"training"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"C",
+				"ContactForm"
+			],
+			[
+				"wor",
+				"word_list"
+			],
+			[
+				"Sign",
+				"SignUpForm"
+			],
+			[
+				"fo",
+				"forms"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/index.html",
+			"settings":
+			{
+				"buffer_size": 563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/partials/phone-detail.html",
+			"settings":
+			{
+				"buffer_size": 2754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 630,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/test/unit/controllersSpec.js",
+			"settings":
+			{
+				"buffer_size": 1585,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/test/e2e/scenarios.js",
+			"settings":
+			{
+				"buffer_size": 2283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/phones/phones.json",
+			"settings":
+			{
+				"buffer_size": 6837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/partials/phone-list.html",
+			"settings":
+			{
+				"buffer_size": 801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/filters.js",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/phones/dell-venue.json",
+			"settings":
+			{
+				"buffer_size": 2452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/services.js",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anirudh/Desktop/Ani/angular-phonecat/app/phones/droid-pro-by-motorola.json",
+		"/home/anirudh/Desktop/NITT SITE/Anirudh58.github.io/index.html",
+		"/home/anirudh/Desktop/Blue/css/main.css",
+		"/home/anirudh/Desktop/NITT SITE/Anirudh58.github.io/css/main.css",
+		"/home/anirudh/Desktop/Blue/index.html",
+		"/home/anirudh/Desktop/Blue/css/misc.css",
+		"/home/anirudh/Desktop/Ani/angular-phonecat/app/phones/dell-streak-7.json",
+		"/home/anirudh/Desktop/angular/directives_proj/js/controllers/MainController.js",
+		"/home/anirudh/Desktop/angular/order_form/css/styles.css",
+		"/home/anirudh/Desktop/angular/order_form/index.html",
+		"/home/anirudh/Desktop/angular/order_form/js/mainController.js",
+		"/home/anirudh/Desktop/angular/order_form/js/app,js",
+		"/home/anirudh/Desktop/angular/directives_proj/index.html",
+		"/home/anirudh/Desktop/angular/directives_proj/js/app.js",
+		"/home/anirudh/Desktop/angular/w3s/script.js",
+		"/home/anirudh/Desktop/angular/w3s/mainController2.js",
+		"/home/anirudh/Desktop/angular/w3s/mainController1.js",
+		"/home/anirudh/Desktop/angular/w3s/mainController.js",
+		"/home/anirudh/Desktop/angular/w3s/app.js",
+		"/home/anirudh/Desktop/angular/w3s/mainController_app.js",
+		"/home/anirudh/Desktop/angular/w3s/app_index.html",
+		"/home/anirudh/Desktop/angular/w3s/myUsers.js",
+		"/home/anirudh/Desktop/angular/w3s/angular_index.html",
+		"/home/anirudh/Desktop/angular/w3s/validation_index.html",
+		"/home/anirudh/Desktop/angular/w3s/forms_index.html",
+		"/home/anirudh/Desktop/angular/w3s/index.html",
+		"/home/anirudh/Desktop/angular/index.html",
+		"/home/anirudh/Desktop/angular/services_proj/css/main.css",
+		"/home/anirudh/Desktop/angular/services_proj/js/controllers/MainController.js",
+		"/home/anirudh/Desktop/angular/services_proj/js/services/forecast.js",
+		"/home/anirudh/Desktop/angular/services_proj/js/shared/angular-mocks.js",
+		"/home/anirudh/Desktop/angular/services_proj/js/shared/angular.min.js",
+		"/home/anirudh/Desktop/angular/services_proj/js/app.js",
+		"/home/anirudh/Desktop/tasks",
+		"/home/anirudh/Desktop/angular/services_proj/index.html",
+		"/media/anirudh/Elements/Books and stuff/delta/circular.htm",
+		"/home/anirudh/Desktop/angular/services_proj/js/angular.min.js",
+		"/home/anirudh/Desktop/angular/directives_proj/js/directives/installApp.js",
+		"/home/anirudh/Desktop/angular/directives_proj/js/directives/installApp.html",
+		"/home/anirudh/Desktop/angular/directives_proj/js/directives/appInfo.js",
+		"/home/anirudh/Desktop/angular/directives_proj/js/directives/appInfo.html",
+		"/home/anirudh/Desktop/angular/directives_proj/css/main.css",
+		"/home/anirudh/Desktop/angular/directives_proj/js/angular.min.js",
+		"/home/anirudh/Desktop/angular/directives/index.html",
+		"/home/anirudh/Desktop/angular/directives/js/controllers/MainController.js",
+		"/home/anirudh/Desktop/angular/directives/js/directives/appInfo.html",
+		"/home/anirudh/Desktop/angular/directives/js/directives/installApp.html",
+		"/home/anirudh/Desktop/angular/directives/js/directives/appInfo.js",
+		"/home/anirudh/Desktop/angular/directives/js/directives/installApp.js",
+		"/home/anirudh/Desktop/angular/directives/css/main.css",
+		"/home/anirudh/Desktop/angular/proj/js/controllers/MainController.js",
+		"/home/anirudh/Desktop/angular/proj/css/main.css",
+		"/home/anirudh/Desktop/angular/proj/js/app.js",
+		"/home/anirudh/Desktop/angular/proj/index.html",
+		"/home/anirudh/Desktop/angular/proj/js/shared/angular.min.js",
+		"/home/anirudh/Desktop/angular/proj/js/shared/angular-route.min.js",
+		"/home/anirudh/Desktop/angular/proj/js/shared/angular-mocks.js",
+		"/home/anirudh/Desktop/angular/proj/js/angular.min.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /promises/index.html",
+		"/home/anirudh/Desktop/sportscafe/ES6 /promises/main.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /generators/index.html",
+		"/home/anirudh/Desktop/sportscafe/ES6 /generators/yeild.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/tweets.json",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/promises.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/profile.json",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/index.html",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/generators.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/friend.json",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/clean-callbacks.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /4ways for async callbacks/callbacks.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /friend.json",
+		"/home/anirudh/Desktop/sportscafe/ES6 /tweets.json",
+		"/home/anirudh/Desktop/sportscafe/ES6 /profile.json",
+		"/home/anirudh/Desktop/sportscafe/ES6 /generators.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /promises.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /clean-callbacks.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /callbacks.js",
+		"/home/anirudh/Desktop/sportscafe/ES6 /index.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_20.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script20.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script19.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_19.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script18.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_18.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script17.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_17.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/style16.css",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script16.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_16.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/style15.css",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script15.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_15.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/style14.css",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script14.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_14.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_13.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script13.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_08.html",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/script12.js",
+		"/home/anirudh/Desktop/sportscafe/C9JS_Fundamentals/C9JS_06.html",
+		"/home/anirudh/Desktop/Ani/git",
+		"/home/anirudh/Desktop/sportscafe/Untitled Document",
+		"/home/anirudh/Desktop/Ani/verilog/clock.v",
+		"/home/anirudh/Desktop/Ani/verilog/counter.v",
+		"/home/anirudh/Desktop/Blue/mani.appcache",
+		"/home/anirudh/Desktop/Ani/verilog/clk.v",
+		"/home/anirudh/Desktop/Ani/verilog/dff.v",
+		"/home/anirudh/Desktop/Ani/verilog/alu.v",
+		"/home/anirudh/Desktop/Ani/verilog/rplcryadd.v",
+		"/home/anirudh/Desktop/Ani/verilog/mux.v",
+		"/home/anirudh/Desktop/Ani/verilog/4to1mux.v",
+		"/home/anirudh/Desktop/Ani/verilog/4bitfull.v",
+		"/home/anirudh/Desktop/Ani/verilog/full.v",
+		"/home/anirudh/Desktop/Ani/verilog/decoder",
+		"/home/anirudh/Downloads/scrape/demo.esmeth.com/universe/Blue/css/main.css",
+		"/home/anirudh/Downloads/scrape/demo.esmeth.com/universe/Blue/style.css",
+		"/home/anirudh/Downloads/scrape/demo.esmeth.com/universe/Blue/index.html",
+		"/home/anirudh/Desktop/trydjango18/src/newsletter/tests.py",
+		"/home/anirudh/Desktop/trydjango18/src/templates/registration/login.html",
+		"/home/anirudh/Desktop/trydjango18/src/static_in_pro/our_static/css/custom.css",
+		"/home/anirudh/Desktop/trydjango18/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/anirudh/Desktop/trydjango18/src/newsletter/admin.py",
+		"/home/anirudh/Desktop/trydjango18/src/templates/forms.html",
+		"/home/anirudh/Desktop/Ani/bootstrap/index.html",
+		"/home/anirudh/Desktop/trydjango18/src/trydjango18/settings.py",
+		"/home/anirudh/Desktop/trydjango18/src/newsletter/models.py",
+		"/home/anirudh/Desktop/trydjango18/src/newsletter/forms.py",
+		"/home/anirudh/Desktop/trydjango18/src/templates/about.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit...",
+			"widget-inner",
+			"<strong class=\"dark-text\">Shannon D. Edwards</strong>",
+			"site-footer",
+			"200",
+			"150",
+			"&emsp;&emsp;",
+			"request information",
+			"\\s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"NIT Trichy",
+			"",
+			"175",
+			"200",
+			"&emsp;",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/index.html",
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/partials/phone-detail.html",
+					"settings":
+					{
+						"buffer_size": 2754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/test/unit/controllersSpec.js",
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/test/e2e/scenarios.js",
+					"settings":
+					{
+						"buffer_size": 2283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/phones/phones.json",
+					"settings":
+					{
+						"buffer_size": 6837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/partials/phone-list.html",
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/app.js",
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/filters.js",
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/phones/dell-venue.json",
+					"settings":
+					{
+						"buffer_size": 2452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/anirudh/Desktop/Ani/angular-phonecat/app/js/services.js",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 411.0,
+	"status_bar_visible": true
+}

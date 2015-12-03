@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block head_title %} Welcome 	 {% endblock %}
+
+<style>
+{% block style %}
+{% endblock %}
+</style>
+
+ 
+
+{% block jumbotron %}
+	
+	{% if not request.user.is_authenticated %}
+	<div class = "jumbotron">
+		<div class = "container">
+			<div class = "row">
+				<div class = "col-md-8">
+					<h1> {{ title }} </h1>
+					<br>
+					<br>
+
+					<form method = "POST" action = "" > {% csrf_token %}
+
+					{{ form|crispy }}
+
+
+					<input class="btn btn-lg btn-primary" type = "submit" value = "Submit">
+					</form> 
+
+					
+			    </div>
+
+			  
+			</div>
+		</div>
+	</div>
+	{% endif %}
+
+{% endblock %}
+
+
+{% block content %}
+
+{% if request.user.is_authenticated %}
+<h3> You are now logged in </h3>
+
+{% if request.user.is_staff %}
+
+<h2> Welcome Admin !  </h2>
+<br>
+<h2> List of complaints </h2>
+<br><br>
+
+	
+{% for item in queryset %}
+	<div class = "panel panel-default panel-danger">
+		<div class="panel-heading"><h3 class="panel-title">{{ item.full_name }}</h3></div>
+		<div class="panel-body">
+					{{ item.complaint }}
+		</div>
+		<div class="panel-footer">{{ item.timestamp | timesince }} ago</div>
+	</div>
+{% endfor %}
+
+
+{% endif %}
+
+{% else %}
+
+
+<!-- <div class = "row">
+	<div class = "col-md-3 pull-right">
+		<h1>{{title}}</h1>
+		<br>
+		<form method = "POST" action = "" > {% csrf_token %}
+
+			{{ form|crispy }}
+
+
+			<input class="btn btn-lg btn-primary" type = "submit" value = "SignUp">
+		</form> 
+	</div>
+
+	<div class = "col-md-3">
+		<p class = "lead text-align-attr"> Built with Django &amp; Bootstrap </p>
+	</div>
+
+	<div class = "col-md-3">
+		<p class = "lead text-align-attr"> Built with Django &amp; Bootstrap </p>
+	</div>
+
+	<div class = "col-md-3">
+		<p class = "lead text-align-attr"> Built with Django &amp; Bootstrap </p>
+	</div>
+
+</div> -->
+
+{% endif %}
+{% endblock %}
